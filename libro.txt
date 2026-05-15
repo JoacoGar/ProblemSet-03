@@ -1,0 +1,11 @@
+Java es un lenguaje de programación muy popular.
+Java permite desarrollar aplicaciones de escritorio, web y móviles.
+Muchos programadores utilizan Java para construir sistemas grandes.
+El lenguaje Java tiene una gran comunidad de desarrolladores.
+Aprender programación en Java ayuda a comprender estructuras de datos y algoritmos.
+
+Las estructuras de datos son fundamentales en la programación.
+Las listas, mapas y colas permiten organizar la información.
+Los algoritmos permiten resolver problemas de forma eficiente.
+En muchos libros de programación se explican ejemplos con Java.
+Java Java Java es una palabra que aparecerá muchas veces en este texto.
