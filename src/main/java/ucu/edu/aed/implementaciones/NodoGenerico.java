@@ -67,6 +67,6 @@ public class NodoGenerico<T extends Comparable<T>> implements TNodoGenerico<T> {
 
     @Override
     public List<T> obtenerHijos() {
-        return List.of();
+        return null;
     }
 }
