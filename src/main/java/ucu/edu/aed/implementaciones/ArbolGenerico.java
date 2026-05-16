@@ -15,7 +15,6 @@ public class ArbolGenerico<T extends Comparable<T>> implements TArbolGenerico<T>
 
     @Override
     public void eliminar(Comparable<T> criterio) {
-
     }
 
     @Override
@@ -25,10 +24,6 @@ public class ArbolGenerico<T extends Comparable<T>> implements TArbolGenerico<T>
 
     @Override
     public T buscar(Comparable<T> criterio) {
-        if (primerHijo != null) {
-            primerHijo.buscar(criterio);
-            criterio.
-        }
         return null;
     }
 

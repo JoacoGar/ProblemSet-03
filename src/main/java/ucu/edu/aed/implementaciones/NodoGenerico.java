@@ -28,6 +28,7 @@ public class NodoGenerico<T extends Comparable<T>> implements TNodoGenerico<T> {
     @Override
     public TNodoGenerico<T> buscar(Comparable<T> criterio) {
         ;
+        return null;
     }
 
     @Override
