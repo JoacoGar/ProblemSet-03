@@ -43,7 +43,7 @@ abstract public class THash<K, V> {
     /**
      * implementación del insertar con generación de reportes
      */
-    public abstract boolean insertar(K clave, V valor, Report report);
+    public abstract boolean insertar(K clave, V valor, Report report) ;
 
     /**
      * Devuelve la posición generada por la función dado una clave K.
